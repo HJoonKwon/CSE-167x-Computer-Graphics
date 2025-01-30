@@ -5,6 +5,16 @@
 
 - hw3 - openmp + raytracing from scratch (passed with full score)
 
+| Scene | Image |
+| --- | --- |
+| Scene 1 | ![hw3-scene1](hw3/scene1-camera4.png) |
+| Scene 2 | ![hw3-scene2](hw3/scene2-camera3.png) |
+| Scene 3 | ![hw3-scene3](hw3/scene3.png) |
+| Scene 4 | ![hw3-scene4](hw3/scene4-diffuse.png) |
+| Scene 5 | ![hw3-scene5](hw3/scene5.png) |
+| Scene 6 | ![hw3-scene6](hw3/scene6.png) |
+| Scene 7 | ![hw3-scene7](hw3/scene7.png) |
+
 ## Environment 
 - Macbook Air M2
 - Libraries were installed through homebrew
